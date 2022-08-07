@@ -4,13 +4,13 @@
 }
 
 #contenedor{
-	display: block;
+	display: none;
 }
 
 /* //BIENVENIDA//  */
 
 #bienvenida{
-	display: none;
+	display: block;
 
 	border: 0px solid black;
 	width: auto;
@@ -120,7 +120,7 @@ body{
     transform: translateX(-50%) translateY(-92%);		
 }
 
-#contenedor #contraseña{
+#contenedor #contraseÃ±a{
 	top: 53%;
 	position: absolute;
 	text-align: center;
@@ -202,7 +202,7 @@ body{
     transform: translateX(-50%) translateY(-92%);		
 }
 
-#contenedor #contraseña{
+#contenedor #contraseÃ±aa{
 	top: 53%;
 	position: absolute;
 	text-align: center;
@@ -251,9 +251,9 @@ body{
 		background-color: white;
 		border: 1px solid #E3E3E3;
 	    position: absolute;
-	    top: 72%;
+	    top: 74%;
 	    left: 50%;
-	    transform: translateX(-50%) translateY(-72%);		
+	    transform: translateX(-50%) translateY(-74%);		
 	}	
 
 	#formulario_abajo p{
@@ -292,8 +292,8 @@ body{
 		background-color: white;
 		border: 1px solid #E3E3E3;
 	    position: absolute;
-	    top: 84%;
+	    top: 85%;
 	    left: 50%;
-	    transform: translateX(-50%) translateY(-84%);		
+	    transform: translateX(-50%) translateY(-85%);		
 	}	
 }
